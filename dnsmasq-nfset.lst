@@ -428,5 +428,6 @@ nftset=/zetflix.online/4#inet#fw4#vpn_domains
 nftset=/zf.com/4#inet#fw4#vpn_domains
 nftset=/znanija.com/4#inet#fw4#vpn_domains
 nftset=/2ip.ru/4#inet#fw4#vpn_domains
+nftset=/ntc.party/4#inet#fw4#vpn_domains
 nftset=/zohomail.com/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
