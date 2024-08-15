@@ -419,4 +419,5 @@ nftset=/2ip.io/4#inet#fw4#vpn_domains
 nftset=/ntc.party/4#inet#fw4#vpn_domains
 nftset=/zohomail.com/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
-nftset=/googleadservices.com/4#inet#fw4#vpn_domains
+nftset=/apple.com/4#inet#fw4#vpn_domains
+nftset=/appstore.com/4#inet#fw4#vpn_domains
