@@ -416,4 +416,3 @@ nftset=/zohomail.com/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
 nftset=/canva.com/4#inet#fw4#vpn_domains
 nftset=/ytimg.com/4#inet#fw4#vpn_domains
-nftset=/gstatic.com/4#inet#fw4#vpn_domains
