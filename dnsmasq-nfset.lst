@@ -419,3 +419,4 @@ nftset=/ytimg.com/4#inet#fw4#vpn_domains
 nftset=/i.ytimg.com/4#inet#fw4#vpn_domains
 nftset=/ytimg.l.google.com/4#inet#fw4#vpn_domains
 nftset=/gstatic.com/4#inet#fw4#vpn_domains
+nftset=/microsoft.com/4#inet#fw4#vpn_domains
