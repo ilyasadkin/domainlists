@@ -423,3 +423,4 @@ nftset=/viewbox.fun/4#inet#fw4#vpn_domains
 nftset=/gstatic.com/4#inet#fw4#vpn_domains
 nftset=/ytimg.com/4#inet#fw4#vpn_domains
 nftset=/ggpht.com/4#inet#fw4#vpn_domains
+nftset=/youtube.com/4#inet#fw4#vpn_domains
